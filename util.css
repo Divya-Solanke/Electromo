@@ -1,0 +1,9 @@
+.d_flex{
+    display: flex;
+}
+.text_end{
+    text-align: end;
+}
+.gap_20{
+    gap: 20px;
+}
